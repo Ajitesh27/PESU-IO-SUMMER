@@ -1,0 +1,5 @@
+print("Welcome to program 1.")
+listL=input("Enter the numbers separated with commas\n").split(",")
+print("List is : ",listL)
+tupleT=tuple(listL)
+print("Tuple is:",tupleT)
